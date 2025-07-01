@@ -10,15 +10,6 @@
   - [Feature Selection](https://github.com/JoshAlessio/Data-Visualization)
   - [Bivariate Analysis](https://github.com/JoshAlessio/Data-Visualization)
 
-<h2>👨🏽‍💻 Software Development Projects:</h2>
-
-- <b>Data Visualization (AlgoExpert)</b>
-  - [Univariate Analysis](https://github.com/JoshAlessio/Data-Visualization)
-  - [Bivariate Analysis](https://github.com/JoshAlessio/Data-Visualization)
-  - [Cross-Validation](https://github.com/JoshAlessio/Data-Visualization)
-  - [Resampling](https://github.com/JoshAlessio/Data-Visualization)
-  - [Feature Selection](https://github.com/JoshAlessio/Data-Visualization)
-  - [Bivariate Analysis](https://github.com/JoshAlessio/Data-Visualization)
     
 <h2>📺 Popular YouTube Videos</h2>
 
