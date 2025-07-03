@@ -2,7 +2,7 @@
   <br/><a href="https://github.com/JoshAlessio">Programmer</a>, 
   <br/>Machine Learning Engineer, 
   <br/>Data Analyst, 
-  <br/>Aspiring Data Scientist
+  <br/>Data Scientist
 </h1>
 
 <h2>👨🏽‍💻 Software Development Projects:</h2>
