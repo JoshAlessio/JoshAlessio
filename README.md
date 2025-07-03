@@ -1,6 +1,8 @@
 <h1>Hi, I'm Josh Alessio. <br/>
-  <br/>
-  <a href="https://github.com/JoshAlessio">Programmer</a>, <br/>Machine Learning Engineer</a>, <br/>Data Analyst, <br/>Aspiring Data Scientist</a>
+  <br/><a href="https://github.com/JoshAlessio">Programmer</a>, 
+  <br/>Machine Learning Engineer, 
+  <br/>Data Analyst, 
+  <br/>Aspiring Data Scientist
 </h1>
 
 <h2>👨🏽‍💻 Software Development Projects:</h2>
