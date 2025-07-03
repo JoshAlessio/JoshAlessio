@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh Alessio. <br/><a href="https://github.com/JoshAlessio">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Machine Learning Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">Data Analyst, <br/>Aspiring Data Scientist</a></h1>
+<h1>Hi, I'm Josh Alessio. <br/></b><a href="https://github.com/JoshAlessio">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Machine Learning Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">Data Analyst, <br/>Aspiring Data Scientist</a></h1>
 
 <h2>👨🏽‍💻 Software Development Projects:</h2>
 
